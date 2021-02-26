@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = "Android PagerTabStrip for iOS and much more."
   s.homepage         = "https://github.com/noobYang95/XLPagerTabStrip"
   s.license          = { type: 'MIT', file: 'LICENSE' }
-  s.author           = { "Martin Barreto" => "martin@xmartlabs.com" }
+  s.author           = { "Yang Pan" => "jlupanyang@163.com" }
   s.source           = { git: "https://github.com/noobYang95/XLPagerTabStrip.git", tag: s.version.to_s }
   s.social_media_url = 'https://twitter.com/xmartlabs'
   s.ios.deployment_target = '9.3'
