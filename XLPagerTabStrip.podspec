@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
-  s.name             = "XLPagerTabStrip"
+  s.name             = "XLPagerTabStripForkByNoobYang"
   s.version          = "9.0.0"
   s.summary          = "Android PagerTabStrip for iOS and much more."
-  s.homepage         = "https://github.com/xmartlabs/XLPagerTabStrip"
+  s.homepage         = "https://github.com/noobYang95/XLPagerTabStrip"
   s.license          = { type: 'MIT', file: 'LICENSE' }
   s.author           = { "Martin Barreto" => "martin@xmartlabs.com" }
-  s.source           = { git: "https://github.com/xmartlabs/XLPagerTabStrip.git", tag: s.version.to_s }
+  s.source           = { git: "https://github.com/noobYang95/XLPagerTabStrip.git", tag: s.version.to_s }
   s.social_media_url = 'https://twitter.com/xmartlabs'
   s.ios.deployment_target = '9.3'
   s.requires_arc = true
